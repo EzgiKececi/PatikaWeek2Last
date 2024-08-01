@@ -1,0 +1,14 @@
+C:\Users\Yavuz\source\repos\PatikaWeek2Last\PatikaWeek2Last\bin\Debug\net8.0\PatikaWeek2Last.exe
+C:\Users\Yavuz\source\repos\PatikaWeek2Last\PatikaWeek2Last\bin\Debug\net8.0\PatikaWeek2Last.deps.json
+C:\Users\Yavuz\source\repos\PatikaWeek2Last\PatikaWeek2Last\bin\Debug\net8.0\PatikaWeek2Last.runtimeconfig.json
+C:\Users\Yavuz\source\repos\PatikaWeek2Last\PatikaWeek2Last\bin\Debug\net8.0\PatikaWeek2Last.dll
+C:\Users\Yavuz\source\repos\PatikaWeek2Last\PatikaWeek2Last\bin\Debug\net8.0\PatikaWeek2Last.pdb
+C:\Users\Yavuz\source\repos\PatikaWeek2Last\PatikaWeek2Last\obj\Debug\net8.0\PatikaWeek2Last.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\PatikaWeek2Last\PatikaWeek2Last\obj\Debug\net8.0\PatikaWeek2Last.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\PatikaWeek2Last\PatikaWeek2Last\obj\Debug\net8.0\PatikaWeek2Last.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\PatikaWeek2Last\PatikaWeek2Last\obj\Debug\net8.0\PatikaWeek2Last.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\PatikaWeek2Last\PatikaWeek2Last\obj\Debug\net8.0\PatikaWeek2Last.dll
+C:\Users\Yavuz\source\repos\PatikaWeek2Last\PatikaWeek2Last\obj\Debug\net8.0\refint\PatikaWeek2Last.dll
+C:\Users\Yavuz\source\repos\PatikaWeek2Last\PatikaWeek2Last\obj\Debug\net8.0\PatikaWeek2Last.pdb
+C:\Users\Yavuz\source\repos\PatikaWeek2Last\PatikaWeek2Last\obj\Debug\net8.0\PatikaWeek2Last.genruntimeconfig.cache
+C:\Users\Yavuz\source\repos\PatikaWeek2Last\PatikaWeek2Last\obj\Debug\net8.0\ref\PatikaWeek2Last.dll
