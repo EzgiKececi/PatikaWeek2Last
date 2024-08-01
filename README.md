@@ -1,1 +1,1 @@
-# PatikaWeek2Last
+İlk iki hafta öğrenilen konuların uygulamaları
